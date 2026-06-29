@@ -1,9 +1,13 @@
-# Conduit
+# Conduit AI Assessment
 
-This repository contains a full-stack TypeScript application consisting of a NestJS backend and an Angular frontend, used in several real work assessments for Crossover.
+Full-stack TypeScript assessment repository for the Conduit application.
+This is a training and evaluation harness, not the product itself. The branch structure maps to different assessment tracks.
 
-Please checkout the branch corresponding to the assessment you are taking:
+## What it was trying to do
+- Provide a NestJS backend and Angular frontend for work-sample exercises.
+- Let a candidate check out the branch for a specific assessment track.
+- Keep the repo aligned with the assessment tasks rather than a single production feature.
 
-- https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/tree/rwa/defect-resolution-v4
-- https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/tree/rwa/feature-development-v4
-- https://github.com/trilogy-group/ws-eng-conduit-ai-assessment/tree/rwa/design-and-implementation-v1
+## Main parts
+- Branches for defect-resolution, feature-development, and design/implementation tracks
+- Backend and frontend application code in the main tree
